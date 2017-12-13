@@ -1,0 +1,8 @@
+{
+  "name": "stanislav/blockchain",
+  "autoload": {
+    "psr-0" : {
+      "Blockchain" : "src"
+    }
+  }
+}
